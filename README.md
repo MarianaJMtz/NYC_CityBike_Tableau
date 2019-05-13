@@ -11,7 +11,7 @@ Users in New York City made 17,537,059 trips in 2018...that's a lot of data!
 
 ## Tableau Story
 The resulting csv file was afterwards analyze using Tableau Desktop, creating an interactive story to visualize and play with data.
-This story can be check in this [link](https://10ay.online.tableau.com/t/marianajimenez/views/NYC_CityBike2018_Analysis/Analysis?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) leading to my personal Tableau Online's site.
+This story can be check in this [link](https://10ay.online.tableau.com/t/marianajimenez/views/NYC_CityBike2018_Analysis/Analysis?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no#2) leading to my personal Tableau Online's site.
 
 Examples of the visualizations generated using Tableau and 2018 CitiBike's data are given below:
 
