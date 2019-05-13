@@ -9,7 +9,7 @@ in both a Jupyter Notebook and a *.py format.
 
 Users in New York City made 17,537,059 trips in 2018...that's a lot of data!
 
-In fact, is that much data that I could not upload the csv files directly into my repository. If you are interested in replicating the exercise, please download the data from this [link](https://drive.google.com/drive/folders/1MQI9co9Loc1voWAdtecQFWFuOzGb_cKV?usp=sharing). The Trips_Data_2018.csv is the file that contains all the information after running the python code. The monthly files can be found in the Trips_data folder. I changed the name according to the month they belong to, but they are the same hosted in CitiBike public site for 2018.
+In fact, is so much data that I could not upload the csv files directly into my repository. If you are interested in replicating the exercise, please download the data from this [link](https://drive.google.com/drive/folders/1MQI9co9Loc1voWAdtecQFWFuOzGb_cKV?usp=sharing). The Trips_Data_2018.csv is the file that contains all the information after running the python code. The monthly files can be found in the Trips_data folder. I changed the name according to the month they belong to, but they are the same hosted in CitiBike public site for 2018.
 
 ## Tableau Story
 The resulting csv file was afterwards analyze using Tableau Desktop, creating an interactive story to visualize and play with data.
